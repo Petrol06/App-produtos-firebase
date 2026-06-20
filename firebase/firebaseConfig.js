@@ -3,12 +3,12 @@ import 'firebase/auth';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAjSB87S_Ayc76i9uneODnyFSLamSSRpRA",
-  authDomain: "app-produtos-firebase.firebaseapp.com",
-  projectId: "app-produtos-firebase",
-  storageBucket: "app-produtos-firebase.firebasestorage.app",
-  messagingSenderId: "506367268857",
-  appId: "1:506367268857:web:64d8345a5301b79fb90f28",
+  apiKey: "AIzaSyAXxKTsvPlAbL5MmSLTycI_j9oYl8JprmU",
+  authDomain: "app-produtos-firebase-2ebab.firebaseapp.com",
+  projectId: "app-produtos-firebase-2ebab",
+  storageBucket: "app-produtos-firebase-2ebab.firebasestorage.app",
+  messagingSenderId: "310581324031",
+  appId: "1:310581324031:web:f25858c001792d07b044ca",
 };
 
 if (!firebase.apps.length) {
